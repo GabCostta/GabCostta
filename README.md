@@ -5,7 +5,7 @@
 
 
 ## Sobre mim
-Olá! Sou [Gabriel Costa], um entusiasta de desenvolvimento de software e apaixonado por programação. Atualmente, estou focado em me aprimorar como um desenvolvedor Full Stack, com ênfase em Java e Angular. 
+Olá! Sou [Gabriel Costa], um entusiasta de desenvolvimento de software. Atualmente, estou focado em me aprimorar como um desenvolvedor Full Stack, com ênfase em Java e Angular. 
 
 ## Minha Jornada na DIO e Santander
 Estou empolgado em compartilhar que estou participando do programa de estudos Full Stack Java + Angular oferecido pela [Digital Innovation One (DIO)](https://web.digitalinnovation.one/) em parceria com o Santander. Este programa abrangente e prático tem me proporcionado a oportunidade de mergulhar fundo no desenvolvimento de aplicações web modernas.
