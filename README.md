@@ -1,34 +1,40 @@
+<div align="center">
+    <h1> 👽 Olá! Eu sou o Gabriel ♒ </h1>
+    <p>🧑‍🚀 Sou um entusiasta da tecnologia e estou em processo de transição de carreira com o objetivo de me tornar um desenvolvedor Fullstack. Estou animado para explorar as possibilidades que a programação oferece e ansioso para embarcar nessa jornada de aprendizado contínuo. Vamos juntos nessa busca por conhecimento e conquistas tecnológicas! 🚀</p>
+</div>
 
-# Bem-vindo ao meu perfil do GitHub!
+## Sobre Mim 🧑‍🚀
+✌️ Me chamo Gabriel, tenho 25 anos e sou estudante de Logística na Uniateneu, em Aquiraz, Ceará. Com mais de 5 anos de experiência na área administrativa, possuo habilidades avançadas no pacote Office e expertise em elaboração de protocolos, checklists, controle de qualidade e atendimento ao cliente. Atualmente, estou focado em expandir minhas habilidades como bolsista do Bootcamp Santander 2023, onde estou estudando Desenvolvimento Fullstack Java + Angular. Acredito sinceramente que esta oportunidade que surgiu irá facilitar grandemente esse processo. Embora eu esteja seguindo uma abordagem autodidata em meus estudos, admito que enfrento desafios em alguns dias, especialmente quando me deparo com conceitos mais complexos de absorver de uma só vez. De toda forma, estou confiante de que, com persistência e o suporte deste curso, conseguirei superar essas dificuldades. Uma das minhas maiores barreiras é o fato de estudar por conta própria, sem um mentor para orientar. Isso muitas vezes resulta em várias dúvidas que permanecem sem resposta. Estou esperançoso de que poderei contar com o apoio desta comunidade para superar esses obstáculos. Vamos caminhar juntos rumo a esse objetivo! 🏃‍♂❤️
 
-![MuaKissGIF](https://github.com/GabCostta/GabCostta/assets/138169563/26bb1e0f-98af-453f-92e6-ff7321d4c3db)
+## Conecte-se comigo ♒
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabcostta37@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-costa-e-silva-a77159125/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gabr_riel/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color:FFF)](https://api.whatsapp.com/send?phone=+5585997539628)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.gg/gabr_riel1)
 
+## Estatísticas do GitHub 😶‍🌫️
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-## Sobre mim
-Olá! Sou [Gabriel Costa], um entusiasta de desenvolvimento de software. Atualmente, estou focado em me aprimorar como um desenvolvedor Full Stack, com ênfase em Java e Angular. 
+## Tecnologias 🧑🏻‍💻
+<div align="center">
+<img alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Gabriel-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  <img alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Gabriel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <!-- Adicione mais ícones de tecnologia conforme necessário -->
+</div>
 
-## Minha Jornada na DIO e Santander
-Estou empolgado em compartilhar que estou participando do programa de estudos Full Stack Java + Angular oferecido pela [Digital Innovation One (DIO)](https://web.digitalinnovation.one/) em parceria com o Santander. Este programa abrangente e prático tem me proporcionado a oportunidade de mergulhar fundo no desenvolvimento de aplicações web modernas.
+## Principais Projetos 🔎
+- [DIO Lab Open Source](https://github.com/GabCostta/dio-lab-open-source)
+<!-- Adicione mais projetos se desejar -->
 
-## O Que Estou Aprendendo
-- Construção de APIs robustas utilizando Java.
-- Desenvolvimento de interfaces interativas e dinâmicas com Angular.
-- Integração de diferentes tecnologias para criar aplicações completas.
-- Utilização de boas práticas de programação e design.
-
-## Projetos
-Aqui estão alguns projetos que tenho trabalhado durante o meu aprendizado:
-
-- [Projeto 1](link-para-o-repositorio): Em construção.
-- [Projeto 2](link-para-o-repositorio): Em construção.
-
-## Contato
-Estou sempre aberto a novas conexões e colaborações. Se você também está estudando desenvolvimento Full Stack, Java ou Angular, ou apenas quer bater um papo, não hesite em entrar em contato comigo.
-
-- Linkedin: [Gabriel Costa ](https://www.linkedin.com/in/gabriel-costa-e-silva-a77159125/)
-- E-mail: gabcostta37@gmail.com
-
- ![ClipWindowsGIF](https://github.com/GabCostta/GabCostta/assets/138169563/49121ca8-d586-4363-b625-27b50422558d)
-
-## Vamos Conectar!
-Vamos aprender e crescer juntos. Siga-me aqui no GitHub para acompanhar meu progresso nesta emocionante jornada Full Stack!
+## Minhas Contribuições 💾
+- [LAB Open Source](https://github.com/SeuNomeDeUsuário/nome-do-repo)
+<!-- Adicione mais contribuições se desejar -->
