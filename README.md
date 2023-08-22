@@ -18,7 +18,7 @@
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabcostta&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 <br>
 
-## Tecnologias 🧑🏻‍💻
+## Tecnologias que já tive contato 🧑🏻‍💻
 <div align="center">
 <img alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Gabriel-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
@@ -28,6 +28,13 @@
   <img alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <!-- Adicione mais ícones de tecnologia conforme necessário -->
+</div>
+
+## Tecnologias que uso no dia a dia 👾
+<div align="center">
+ <img alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Gabriel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ## Principais Projetos 🔎
