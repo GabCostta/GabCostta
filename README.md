@@ -4,7 +4,7 @@
 </div>
 
 ## Sobre Mim 🧑‍🚀
-✌️ Me chamo Gabriel, tenho 25 anos, moro em Aquiraz, Ceará. Estou como pré-concludente no curso de Logística na Uniateneu. Possuo mais de 5 anos de experiência na área administrativa e logística, possuo habilidades avançadas no pacote Office em elaboração de protocolos, checklists, controle de qualidade e atendimento ao cliente. Atualmente, estou focado em expandir minhas habilidades como bolsista do Bootcamp Santander 2023, onde estou estudando Desenvolvimento Fullstack Java + Angular. Acredito sinceramente que esta oportunidade que surgiu irá facilitar grandemente esse processo. Embora eu esteja seguindo uma abordagem autodidata em meus estudos, admito que enfrento desafios em alguns dias, especialmente quando me deparo com conceitos mais complexos de absorver de uma só vez. De toda forma, estou confiante de que, com persistência e o suporte deste curso, conseguirei superar essas dificuldades. Uma das minhas maiores barreiras é o fato de estudar por conta própria, sem um mentor para orientar. Isso muitas vezes resulta em várias dúvidas que permanecem sem resposta. Estou esperançoso de que poderei contar com o apoio desta comunidade para superar esses obstáculos. Vamos caminhar juntos rumo a esse objetivo! 🏃‍♂❤️
+✌️ Me chamo Gabriel, tenho 25 anos, moro em Aquiraz, Ceará. Estou como pré-concludente no curso de Logística na Uniateneu. Possuo mais de 5 anos de experiência na área administrativa e logística, possuo habilidades avançadas no pacote Office em elaboração de protocolos, checklists, controle de qualidade e atendimento ao cliente. Atualmente, estou focado em expandir minhas habilidades como bolsista do Bootcamp Santander 2023, onde estou estudando Desenvolvimento Fullstack Java + Angular. Vamos caminhar juntos rumo a esse objetivo! 🏃‍♂❤️
 
 ## Conecte-se comigo 💙
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color=FFF)](mailto:gabcostta37@gmail.com)
@@ -40,8 +40,14 @@
 
 ## Principais Projetos 🔎
 - [DIO Lab Open Source](https://github.com/GabCostta/dio-lab-open-source)
-<!-- Adicione mais projetos se desejar -->
 
 ## Minhas Contribuições 💾
 - [LAB Open Source](https://github.com/SeuNomeDeUsuário/nome-do-repo)
-<!-- Adicione mais contribuições se desejar -->
+
+
+<div align="center">
+    <img src="https://64.media.tumblr.com/8859558125a8a155599771e6df40e207/6944e9c45c66fb46-8e/s640x960/bb4de6f8ca9bdcf53657094360c5531f4b47d3e4.gif" alt="GIF animado" style="border-radius: 50px;"/>
+</div>
+
+</div>
+
