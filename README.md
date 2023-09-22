@@ -41,7 +41,6 @@
 ## Principais Projetos 🔎
 - [DIO Lab Open Source](https://github.com/GabCostta/dio-lab-open-source)
 - [Pokedex](https://github.com/GabCostta/js-developer-pokedex)
-- [Pokedex] (https://github.com/GabCostta/js-developer-pokedex)
 
 ## Minhas Contribuições 💾
 - [LAB Open Source](https://github.com/SeuNomeDeUsuário/nome-do-repo)
