@@ -35,7 +35,10 @@
 ## Tecnologias que uso no dia a dia 👾
 <div align="center">
  <img alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Gabriel-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  <img alt="Gabriel-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"> 
+    <img alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="Gabriel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ## Principais Projetos 🔎
