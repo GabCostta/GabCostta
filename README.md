@@ -1,14 +1,14 @@
 <div align="center">
     <h1> 👽 Olá! Eu sou o Gabriel ♒ </h1>
-    <p>🧑‍🚀 Sou um entusiasta da tecnologia e estou em processo de transição de carreira com o objetivo de me tornar um desenvolvedor Fullstack. Estou animado para explorar as possibilidades que a programação oferece e ansioso para embarcar nessa jornada de aprendizado contínuo. Vamos juntos nessa busca por conhecimento e conquistas tecnológicas! 🚀</p>
+    <p>🧑‍🚀 Tenho 26 anos e apesar da minha formação em Logística pela Uniateneu, decidi realizar uma transição de carreira para a programação. Tenho me dedicado aos estudos de linguagens como JavaScript, TypeScript e Java, assim como ao framework Angular, participando ativamente de projetos em bootcamps e em iniciativas pessoais. Atualmente, resido em Fortaleza, Ceará, e estou em busca de uma oportunidade como Programador Júnior ou estágio.</p>
 </div>
 
 ## Sobre Mim 🧑‍🚀
-✌️ Me chamo Gabriel, tenho 25 anos, moro em Aquiraz, Ceará. Estou como pré-concludente no curso de Logística na Uniateneu. Possuo mais de 5 anos de experiência na área administrativa e logística, possuo habilidades avançadas no pacote Office em elaboração de protocolos, checklists, controle de qualidade e atendimento ao cliente. Atualmente, estou focado em expandir minhas habilidades como bolsista do Bootcamp Santander 2023, onde estou estudando Desenvolvimento Fullstack Java + Angular. Vamos caminhar juntos rumo a esse objetivo! 🏃‍♂❤️
+✌️ Sou uma pessoa que valoriza o trabalho em equipe e preza por ambientes colaborativos. Tenho facilidade em me adaptar a organizações com atividades padronizadas, pois sou organizado, atencioso e crítico, buscando sempre aprimorar meu trabalho. Sou autodidata e ágil, capaz de absorver novos conhecimentos rapidamente. Estou entusiasmado em contribuir para projetos inovadores, aplicando minhas habilidades e desenvolvendo-me profissionalmente na área da tecnologia. 🏃‍♂❤️
 
 ## Conecte-se comigo 💙
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color=FFF)](mailto:gabcostta37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=007BFF&color=FFF)](https://www.linkedin.com/in/gabriel-costa-e-silva-a77159125/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color=FFF)](mailto:devoctogab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=007BFF&color=FFF)](https://www.linkedin.com/in/gabcostta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=007BFF&color=FFF)](https://www.instagram.com/gabr_riel/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=007BFF&color=FFF)](https://api.whatsapp.com/send/?phone=5585997539628&text&type=phone_number&app_absent=0)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=007BFF&color=FFF)](https://discord.gg/gabr_riel1)
@@ -43,7 +43,7 @@
 
 ## Principais Projetos 🔎
 - [DIO Lab Open Source](https://github.com/GabCostta/dio-lab-open-source)
-- [Pokedex](https://github.com/GabCostta/js-developer-pokedex)
+- [Portfolio](https://portfolio-peach-ten-76.vercel.app/)
 
 ## Minhas Contribuições 💾
 - [LAB Open Source](https://github.com/SeuNomeDeUsuário/nome-do-repo)
